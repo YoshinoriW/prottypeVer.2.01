@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: c0800ca4b5300814e9ef684e3c2b5782
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StageGround: {fileID: 1277900155989972, guid: cdd99238385c1944fabe0a152ab12717,
+      type: 2}
+  - UpSensor: {fileID: 1735359394755912, guid: 51bc215ab8aed1e4d87e72d78b2330c5, type: 2}
+  - DownSensor: {fileID: 1279834830006718, guid: 1a0087f5b58f56541aa3edaef2a72c20,
+      type: 2}
+  - RightSensor: {fileID: 1306469308110736, guid: 35b284f3124e5204d985c4f1e3e0f295,
+      type: 2}
+  - LeftSensor: {fileID: 1698446738642722, guid: dcc6352b06d0df54987348dc43a0f831,
+      type: 2}
+  - UDLR4Center: {fileID: 1812725920610844, guid: 9b4ba368116fd5948bf411ae835fbf2f,
+      type: 2}
+  - UDL3Center: {fileID: 1812725920610844, guid: f8ee30f4dd24c4e4a85cb94373690194,
+      type: 2}
+  - UDR3Center: {fileID: 1812725920610844, guid: 8f6f6396fca008a4dadb7e7273e1e722,
+      type: 2}
+  - ULR3Center: {fileID: 1812725920610844, guid: 8fd8a0e919b3aaa438393aab7525d0a4,
+      type: 2}
+  - DLR3Center: {fileID: 1812725920610844, guid: 497b5fe54bf795d4586e3f03befe1f4e,
+      type: 2}
+  - UD2Center: {fileID: 1812725920610844, guid: ae78f5d57ba57934eac069336781b4ff,
+      type: 2}
+  - LR2Center: {fileID: 1812725920610844, guid: 962c34de36b31e242aac292eea86da8e,
+      type: 2}
+  - UL2Center: {fileID: 1812725920610844, guid: cf97065ebb6ff1d4887a9a7de87fc687,
+      type: 2}
+  - UR2Center: {fileID: 1812725920610844, guid: da6409899db5326408a84104ba316374,
+      type: 2}
+  - DL2Center: {fileID: 1812725920610844, guid: 073d0ae756741e949b0acd96c09ccc9b,
+      type: 2}
+  - DR2Center: {fileID: 1812725920610844, guid: 26080fa7d1e407147adecfcfc42aa7b0,
+      type: 2}
+  - U1Center: {fileID: 1812725920610844, guid: 4833b7becf36d704aa7fba4e7de9323c, type: 2}
+  - D1Center: {fileID: 1812725920610844, guid: f23e98b6e13291548b05a0109dfeb5ab, type: 2}
+  - L1Center: {fileID: 1812725920610844, guid: a72750b716439174c929ee4d27b4b3ab, type: 2}
+  - R1Center: {fileID: 1812725920610844, guid: 970be64f5cea14f468065db9c3a43adc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
